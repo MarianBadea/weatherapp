@@ -1,0 +1,20 @@
+:root {
+    font-size: 16px;
+}
+
+body {
+    margin: 5rem;
+    background-color: rgb(70, 23, 77);
+    color: #fff;
+}
+
+
+@media (max-width: 520px;) {
+    .phone{margin: 1rem;}
+
+}
+
+.city-wather {
+    margin-top: 5rem;
+    text-align: center;
+}

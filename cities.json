@@ -1,0 +1,102 @@
+[
+  {
+    "id": 667267,
+    "name": "Sibiu",
+    "state": "",
+    "country": "RO",
+    "coord": {
+        "lon": 24.143829,
+        "lat": 45.784279
+    }
+},
+{
+  "id": 668872,
+  "name": "Râmnicu Vâlcea",
+  "state": "",
+  "country": "RO",
+  "coord": {
+      "lon": 24.366671,
+      "lat": 45.099998
+  }
+},
+{
+  "id": 680962,
+  "name": "Constanța",
+  "state": "",
+  "country": "RO",
+  "coord": {
+      "lon": 28.33333,
+      "lat": 44.25
+  }
+},
+{
+  "id": 683506,
+  "name": "Bucharest",
+  "state": "",
+  "country": "RO",
+  "coord": {
+      "lon": 26.10626,
+      "lat": 44.432251
+  }
+},
+{
+  "id": 686253,
+  "name": "Arad",
+  "state": "",
+  "country": "RO",
+  "coord": {
+      "lon": 21.75,
+      "lat": 46.333328
+  }
+},
+{
+  "id": 292223,
+  "name": "Dubai",
+  "state": "",
+  "country": "AE",
+  "coord": {
+      "lon": 55.304722,
+      "lat": 25.258169
+  }
+},  
+  {
+    "id": 2618425,
+    "name": "Copenhagen",
+    "state": "",
+    "country": "DK",
+    "coord": {
+        "lon": 12.56553,
+        "lat": 55.675941
+    }
+  },
+  {
+    "id": 3196359,
+    "name": "Ljubljana",
+    "state": "",
+    "country": "SI",
+    "coord": {
+        "lon": 14.50513,
+        "lat": 46.051079
+    }
+},
+  {
+    "id": 5128581,
+    "name": "New York City",
+    "state": "NY",
+    "country": "US",
+    "coord": {
+        "lon": -74.005966,
+        "lat": 40.714272
+    }
+  },
+  {
+    "id": 6356055,
+    "name": "Barcelona",
+    "state": "",
+    "country": "ES",
+    "coord": {
+        "lon": 2.12804,
+        "lat": 41.399422
+    }
+  }
+  ]
